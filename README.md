@@ -1,5 +1,6 @@
 # Devops-capstone-project
 
+[![CI Build](https://github.com/Niroshan-Vidanagamage/devops-capstone-project/actions/workflows/build.yaml/badge.svg)](https://github.com/Niroshan-Vidanagamage/devops-capstone-project/actions/workflows/build.yaml)
 ![Build Status](https://github.com/Niroshan-Vidanagamage/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 
