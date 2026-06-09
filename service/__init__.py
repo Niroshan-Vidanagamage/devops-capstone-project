@@ -15,7 +15,7 @@ from flask_cors import CORS
 app = Flask(__name__)
 app.config.from_object(config)
 
-#create instance of Talisman
+# create instance of Talisman
 talisman = Talisman(app)
 CORS(app)
 
